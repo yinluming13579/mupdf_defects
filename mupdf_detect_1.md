@@ -9,4 +9,4 @@ https://github.com/ArtifexSoftware/mupdf
 
 Defect Location and Description:
 A memory leak exception issue was discovered in mupdf in functon glutAddSubMenu() of /mupdf/thirdparty/freeglut/src/fg_menu.c in line 873.
-https://github.com/yinluming13579/mupdf_defects/blob/main/mupdf_detect_1.png
+![image](https://github.com/yinluming13579/mupdf_defects/blob/main/mupdf_detect_1.png)
